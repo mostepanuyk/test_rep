@@ -1,8 +1,8 @@
-class Greeter #1
+class Greeter #111
   def initialize(who) #2
     @who = who #3
   end
   def greet
-    "Hello, #{@who}"
+    "WW, #{@who}"
   end
 end
